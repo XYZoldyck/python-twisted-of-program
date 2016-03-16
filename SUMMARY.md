@@ -15,7 +15,7 @@
 * [internet](chapter4.md)
     * [abstract](chapter4-1.md)
     * [base](chapter4-2.md)
-    * [defer](chapter4-2.md)
+    * [defer](chapter4-3.md)
     * [endpoints](chapter4-2.md)
     * [epollreactor](chapter4-2.md)
     * [interfaces](chapter4-2.md)
