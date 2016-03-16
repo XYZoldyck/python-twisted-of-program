@@ -12,11 +12,7 @@
 
 * [enterprise](chapter3.md)
     * [adbapi](chapter3-1.md)
-    * [baseIOStream的相关函数以及IOStream类](chapter3-2.md)
-    * [Tcp Client和Tcp Server](chapter3-3.md)
-    * [一个简单的TCPServer](chapter3-4.md)
     
-
 * [what's the RPC?](chapter4.md)
     * [RPC on my server](chapter4-1.md)
     * [RPC on my client](chapter4-2.md)
