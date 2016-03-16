@@ -6,8 +6,8 @@
     * [app](chapter2-1.md)
     * [internet](chapter2-2.md)
     * [reactors](chapter2-3.md)
-    * [service](chapter2-3.md)
-    * [strports](chapter2-3.md)
+    * [service](chapter2-4.md)
+    * [strports](chapter2-5.md)
 
 
 * [conch](chapter3.md)
