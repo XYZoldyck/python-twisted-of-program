@@ -21,8 +21,8 @@
     * [interfaces](chapter4-2.md)
     * [protocol](chapter4-2.md)
     * [task](chapter4-2.md)
-    * * [tcp](chapter4-2.md)
-    * * [protocol](chapter4-2.md)
+    * [tcp](chapter4-2.md)
+    * [threads](chapter4-2.md)
 
 
 * [解读Tornado](chapter5.md)
