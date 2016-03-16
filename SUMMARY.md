@@ -9,7 +9,6 @@
     * [service](chapter2-4.md)
     * [strports](chapter2-5.md)
 
-
 * [enterprise](chapter3.md)
     * [adbapi](chapter3-1.md)
     
