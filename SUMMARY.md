@@ -7,7 +7,7 @@
     * [internet](chapter2-2.md)
     * [reactors](chapter2-3.md)
     * [service](chapter2-3.md)
-    *  [strports](chapter2-3.md)
+    * [strports](chapter2-3.md)
 
 
 * [conch](chapter3.md)
