@@ -12,7 +12,7 @@
 * [enterprise](chapter3.md)
     * [adbapi](chapter3-1.md)
     
-* [what's the RPC?](chapter4.md)
+* [internet](chapter4.md)
     * [RPC on my server](chapter4-1.md)
     * [RPC on my client](chapter4-2.md)
 
