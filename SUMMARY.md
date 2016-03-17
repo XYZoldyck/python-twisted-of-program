@@ -20,7 +20,7 @@
     * [task](chapter3-8.md)
     * [tcp](chapter3-9.md)
     * [threads](chapter3-10.md)
-    * 
+     
   * [enterprise](chapter4.md)
     * [adbapi](chapter4-1.md)
 
