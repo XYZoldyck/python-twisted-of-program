@@ -17,3 +17,13 @@
 
 #####4.maybeDeferred(f, *args, **kw)
 #####这个函数就是，当你不知道这个f是同步函数，还是异步函数的时候使用，统一返回Deferred对象。
+
+#####5.inlineCallbacks(f)
+#####这个呢，是一个装饰器，它的出现极大的简化了异步书写的流程，不必在用回调函数的形式来写异步代码。通过用python的yield来实现异步执行。
+```
+@defer.inlineCallbacks
+def hello():
+  r - yield async()＃这是一个异步函数
+  defer.returnValue(r)
+```
+因为在函数内出现了yield就不能出现return，因此使用defer.returnValue来返回。
