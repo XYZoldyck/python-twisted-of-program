@@ -16,7 +16,7 @@
     * [abstract](chapter3-1.md)
     * [base](chapter4-2.md)
     * [defer](chapter3-3.md)
-    * [endpoints](chapter4-4.md)
+    * [endpoints](chapter3-4.md)
     * [epollreactor](chapter4-5.md)
     * [interfaces](chapter4-6.md)
     * [protocol](chapter4-7.md)
