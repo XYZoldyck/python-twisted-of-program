@@ -8,10 +8,6 @@
     * [reactors](chapter2-3.md)
     * [service](chapter2-4.md)
     * [strports](chapter2-5.md)
-
-* [enterprise](chapter3.md)
-    * [adbapi](chapter3-1.md)
-    
 * [internet](chapter3.md)
     * [abstract](chapter3-1.md)
     * [base](chapter4-2.md)
@@ -23,6 +19,8 @@
     * [task](chapter3-8.md)
     * [tcp](chapter3-9.md)
     * [threads](chapter3-10.md)
+  * [enterprise](chapter3.md)
+    * [adbapi](chapter3-1.md)
 
 
 * [解读Tornado](chapter5.md)
