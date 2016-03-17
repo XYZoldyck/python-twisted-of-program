@@ -17,8 +17,8 @@
     * [interfaces](chapter3-5.md)
     * [protocol](chapter3-6.md)
     * [task](chapter3-8.md)
-    * [tcp](chapter3-9.md)
-    * [threads](chapter3-10.md)
+    * [tcp](chapter3-8.md)
+    * [threads](chapter3-9.md)
      
   * [enterprise](chapter4.md)
     * [adbapi](chapter4-1.md)
