@@ -23,7 +23,7 @@
 ```
 @defer.inlineCallbacks
 def hello():
-  r - yield async()＃这是一个异步函数
+  r - yield async()＃这是一个异步回调函数
   defer.returnValue(r)
 ```
-因为在函数内出现了yield就不能出现return，因此使用defer.returnValue来返回。
+因为在函数内出现了yield就不能出现return，因此使用defer.returnValue来返回。这样就可以用同步的形式来书写异步代码。
