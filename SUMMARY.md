@@ -13,7 +13,7 @@
     * [adbapi](chapter3-1.md)
     
 * [internet](chapter4.md)
-    * [abstract](chapter4-1.md)
+    * [abstract](chapter3-1.md)
     * [base](chapter4-2.md)
     * [defer](chapter4-3.md)
     * [endpoints](chapter4-4.md)
