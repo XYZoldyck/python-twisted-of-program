@@ -34,3 +34,10 @@
    ``` 
    reactor.callWhenRunning(hello, args, kw)
    ```
+7.callLater(second, callable, *args, **kw)
+  这个函数就是当reactor启动多久以后，来执行某个函数，一个延时操作。
+  eg:
+    ```
+    reactor.callLater(3, hello)#reactor启动3s后，执行hello
+    ```
+8.callInThread
