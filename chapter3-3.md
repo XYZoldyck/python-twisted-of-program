@@ -1,12 +1,9 @@
 ###reactor
 #####reactor是twisted的event循环，也是整个app的驱动。reactor提供许多在线程，网络，事件等api。
 
-1.run
-
-  reactor.run()，启动reactor事件循环
+1.reactor.run()启动reactor事件循环
   
-2.stop
-  对应的,停止事件循环
+2.reactor.stop() 对应的,停止事件循环
   
 3.running
   判断当前reactor是否正在运行，如果是则返回True，否则为False
