@@ -21,7 +21,16 @@
   callable就是要执行的函数，后面就是他的参数
   
   eg:
-      reactor.addSystemEventTrigger("before", "shutdown", helloworld)#这就是在服务器关闭之前去执行helloworld函数。
+     ``` 
+     reactor.addSystemEventTrigger("before", "shutdown", helloworld)#这就是在服务器关闭之前去执行helloworld函数。
+     ```
  
 5.removeSystemEventTrigger
-6.callWhenRunning
+  对应上面的，如果有一些其它情况发生，想移除已经注册好的函数，那么这个函数就是干这个的。
+
+6.callWhenRunning(callable, *args, **kw)
+  当reactor运行的时候，去执行的函数。
+  eg:
+   ``` 
+   reactor.callWhenRunning(hello, args, kw)
+   ```
