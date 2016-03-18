@@ -40,4 +40,5 @@
     ```
     reactor.callLater(3, hello)#reactor启动3s后，执行hello
     ```
-8.callInThread
+8.connectTCP
+9.listenTCP
