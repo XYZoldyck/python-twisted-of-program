@@ -21,8 +21,7 @@
   callable就是要执行的函数，后面就是他的参数
   
   eg:
-    reactor.addSystemEventTrigger("before", "shutdown", helloworld)#这就是在服务器关闭之前去执行helloworld函数。
+      reactor.addSystemEventTrigger("before", "shutdown", helloworld)#这就是在服务器关闭之前去执行helloworld函数。
  
-  
 5.removeSystemEventTrigger
 6.callWhenRunning
