@@ -11,7 +11,7 @@
 * [internet](chapter3.md)
    * [abstract](chapter3-1.md)
    * [defer](chapter3-2.md)
-   * [interfaces](chapter3-5.md)
+   * [reactor](chapter3-5.md)
    * [protocol](chapter3-6.md)
    * [task](chapter3-8.md)
    * [threads](chapter3-9.md)
